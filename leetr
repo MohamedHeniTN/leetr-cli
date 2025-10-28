@@ -33,6 +33,7 @@ BASIC_MAPPINGS = {
 }
 
 # Comprehensive leetspeak mappings (advanced mode)
+# Using raw string literals to avoid escape sequence warnings
 COMPREHENSIVE_MAPPINGS = {
     'A': 'Λ',
     'a': '/\\',
@@ -58,12 +59,12 @@ COMPREHENSIVE_MAPPINGS = {
     'k': '|<',
     'L': '1_',
     'l': '1_',
-    'M': '/\/\[',
-    'm': '/\(\/',
-    'N': '[\]',
-    'n': '[\]',
+    'M': r'/\/\[',
+    'm': r'/\(\/',
+    'N': r'[\]',
+    'n': r'[\]',
     'O': '()',
-    'o': '(\/)',
+    'o': r'(\/)',
     'P': '|*',
     'p': '|*',
     'Q': '(,)',
