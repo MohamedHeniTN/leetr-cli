@@ -2,7 +2,7 @@
 
 [![Python 3](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/MohamedHeniTN/leetr)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/MohamedHeniTN/leetr-cli)
 [![Author](https://img.shields.io/badge/author-0xAmen-red.svg)](https://github.com/MohamedHeniTN)
 
 A powerful command-line tool for converting text to leetspeak with multiple encoding modes. Perfect for password generation, username creation, and text obfuscation.
@@ -32,8 +32,8 @@ A powerful command-line tool for converting text to leetspeak with multiple enco
 ### Quick Setup (Recommended)
 
 ```bash
-git clone https://github.com/MohamedHeniTN/leetr.git
-cd leetr
+git clone https://github.com/MohamedHeniTN/leetr-cli.git
+cd leetr-cli
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -180,7 +180,7 @@ See the full character set in the source code.
 ### Project Structure
 
 ```
-leetr/
+leetr-cli/
 ├── leetr              # Main CLI tool
 ├── setup.sh           # Installation script
 ├── README.md          # This file
@@ -207,7 +207,7 @@ Contributions are welcome! Feel free to:
 
 ### Reporting Issues
 
-If you find a bug or have a suggestion, please open an issue on [GitHub](https://github.com/MohamedHeniTN/leetr/issues).
+If you find a bug or have a suggestion, please open an issue on [GitHub](https://github.com/MohamedHeniTN/leetr-cli/issues).
 
 ## 📄 License
 

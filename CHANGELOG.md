@@ -18,7 +18,10 @@ Created by **0xAmen** - [GitHub Profile](https://github.com/MohamedHeniTN)
 - `setup.sh` - Automated installation script
 - `README.md` - Main documentation and installation guide
 - `USAGE.md` - Detailed usage guide with examples
-- `CHANGELOG.md` - This file
+- `QUICK_REFERENCE.md` - Quick command reference
+- `CHANGELOG.md` - Version history
+- `LICENSE` - MIT License
+- `.gitignore` - Git ignore file
 
 ### Installation
 Run `./setup.sh` or follow manual installation in README.md
